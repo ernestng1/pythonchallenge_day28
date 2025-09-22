@@ -6,7 +6,7 @@
 </ul>
 
 > [!TIP]
-> It's fun to learn more about the know-hows of GUI and at the same time create something that can be used in my daily life. It is also really cool to be able to integrate mathematical functions and learn how timers work/display through this GUI project!
+> It's fun to learn more about the know-hows of GUI and at the same time create something that can be used in my daily life. It is also really cool to be able to integrate mathematical functions and learn the complexiities behind seemingly simple timing display through this GUI project!
 
 <div width = 150px>
   <img src="pomodoro_timer.gif"/>
