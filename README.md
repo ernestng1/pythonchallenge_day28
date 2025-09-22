@@ -5,6 +5,9 @@
   <li>functions and dynamic typing</li>
 </ul>
 
+> [!TIP]
+> It's fun to learn more about the know-hows of GUI and at the same time create something that can be used in my daily life. It is also really cool to be able to integrate mathematical functions and learn how timers work/display through this GUI project!
+
 <h2>Why am I doing this?</h2>
 <p>I have learned python before in school but I hope to revisit some of the python concepts that I may have forgotten and at the same time delve further into python, especially in the field of data science and visualisation.</p>
 
